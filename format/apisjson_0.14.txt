@@ -216,7 +216,7 @@ Table of Contents
         * Adr [Optional]: String Value corresponding to the physical address of the individual / organization.
         * Tel [Optional]: String Value corresponding to the phone number including country code of the individual / organization.
         * X-Twitter [Optional]: String Value corresponding to the twitter username of the individual / organization (convention do 
-          not use the "@" symbol). Note - these are X- since this is the way they are / would be in vCard.
+          not use the "@" symbol). Note - these are X- since this is the way they are / would be in cCard.
         * X-Github [Optional]: String Value corresponding to the github username of the individual / organization. Note - these are X- since this is the way they are / would be in vCard.
         * photo [Optional]: URL corresponding to an image which could be used to represent the individual / organization.
 
