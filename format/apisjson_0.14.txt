@@ -212,7 +212,7 @@ Table of Contents
         * FN [Optional]: String Value corresponding to the Full Nname name of the individual / organization.
         * Email [Optional]: String Value corresponding to the email address of the individual / organization
         * Url [Optional]: String Value corresponding to a web page about the individual individual / organization
-        * org [Optional]: String Value representing the name of the organization associated with the cCard.
+        * org [Optional]: String Value representing the name of the organization associated with the vCard.
         * Adr [Optional]: String Value corresponding to the physical address of the individual / organization.
         * Tel [Optional]: String Value corresponding to the phone number including country code of the individual / organization.
         * X-Twitter [Optional]: String Value corresponding to the twitter username of the individual / organization (convention do 
